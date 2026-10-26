@@ -1,0 +1,7 @@
+{
+  "name": "erp-enterprise-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
